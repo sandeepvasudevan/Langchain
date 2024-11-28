@@ -8,7 +8,7 @@ import google.generativeai as genai
 from PIL import Image
 
 #Gemini Pro --> API_KEY
-API_KEY='AIzaSyBlCIwsD6iMOvx6Rn7V3_VfKYyEo2xNGTI'
+API_KEY='***********'
 
 #Set up LLM
 genai.configure(api_key=API_KEY)
